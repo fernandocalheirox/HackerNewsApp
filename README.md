@@ -11,7 +11,7 @@
 
 ## O que é 
 
-Hack News é um aplicativo de notícias hacker que foi criado utlizando a API HackerNews.
+Hack News é um aplicativo de notícias da área de tecnologia que foi criado utlizando a API HackerNews.
 
 
 ## Downloads
