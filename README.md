@@ -9,9 +9,9 @@
   </tr>
 </table>
 
-## O que é 
+## What is it
 
-Hack News é um aplicativo de notícias da área de tecnologia que foi criado utlizando a API HackerNews.
+Hack News is a technology news application that was created using the HackerNews API.
 
 
 ## Downloads
